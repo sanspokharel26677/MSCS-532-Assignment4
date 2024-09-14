@@ -1,9 +1,11 @@
 # MSCS-532-Assignment4
 1. As a part of assignment 3, this repo contains 2 files named, "heapsort.py" and "priority_queue.py" for part 1 and part 2.
-2. Source code should be run by python3.
+2. Source code should be run by python3. In case pandas is not installed in system, it must be installed first. Here is the terminal command to install pandas for python3: pip3 install pandas
 3. Example: To run 'heapsort.py' in the terminal we should go to the directory where the file is saved and enter "python3 heapsort.py". Similarly other python file can be run.
 4. I have also added one of the output file generated from running the program which has been used in report also just in case of need for validation.
 5. I have also included the pdf version of report so that mathematical equations could be stable. In fact, as the reports were getting longer I decided to split them into 2 files for different part of assignment. 
+6. 
+
 
 Summary of Heapsort findings
 -----------------------------

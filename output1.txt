@@ -1,0 +1,16 @@
+Sorted array is: [-2, 1, 5, 6, 8, 10, 12, 15, 18, 20, 25, 30, 35, 45, 50]
+--------------------------------------------------------------------------------------
+Additional comparison with another larger dataset amoong Heapsort, Quicksort and Mergesort
+--------------------------------------------------------------------------------------
+
+    Size    Distribution  Heapsort Time (s)  Quicksort Time (s)  Mergesort Time (s)
+0   1000          random           0.005327            0.003475            0.003810
+1   1000          sorted           0.005007            0.001754            0.002128
+2   1000  reverse_sorted           0.004164            0.001601            0.002038
+3   5000          random           0.024763            0.010360            0.014738
+4   5000          sorted           0.023218            0.007393            0.009003
+5   5000  reverse_sorted           0.020137            0.007442            0.009941
+6  10000          random           0.048607            0.022812            0.030572
+7  10000          sorted           0.049593            0.015977            0.019385
+8  10000  reverse_sorted           0.044279            0.015920            0.020116
+
